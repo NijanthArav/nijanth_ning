@@ -1,0 +1,9 @@
+{
+	"name": "kanguvaone",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b818bd6-edf7-4c21-9bc8-0135d1c29b95",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
